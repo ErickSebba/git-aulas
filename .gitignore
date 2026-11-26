@@ -34,3 +34,8 @@ Thumbs.db
 *.pdf
 *.docx
 *.pptx
+
+# Material de preparação das aulas e testes (ficam só no disco)
+teste-git2/
+aula-git/aula2-exercicios-revisado.md
+material-minicurso/*roteiro*.md
